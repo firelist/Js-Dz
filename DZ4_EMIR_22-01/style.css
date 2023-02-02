@@ -1,0 +1,22 @@
+.content {
+    margin: 30px;
+}
+.buttons {
+    width: 90px;
+    height: 40px;
+    margin: 15px 0;
+    font-size: 25px;
+}
+#clear {
+    width: 185px;
+    height: 40px;
+}
+
+#block {
+    width: 500px;
+    height: 500px;
+    border: black solid 1px;
+}
+.pos {
+    color: black;
+}
